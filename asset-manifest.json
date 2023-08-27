@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/finance-tracker-course/static/css/main.10fb5bd1.css",
+    "main.js": "/finance-tracker-course/static/js/main.79374944.js",
+    "index.html": "/finance-tracker-course/index.html",
+    "main.10fb5bd1.css.map": "/finance-tracker-course/static/css/main.10fb5bd1.css.map",
+    "main.79374944.js.map": "/finance-tracker-course/static/js/main.79374944.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10fb5bd1.css",
+    "static/js/main.79374944.js"
+  ]
+}
